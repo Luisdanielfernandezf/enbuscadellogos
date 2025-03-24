@@ -1,0 +1,137 @@
+/* SpotifyPlaylist.css */
+.spotify-container {
+    background: linear-gradient(to right, #6b46c1, #3182ce);
+    color: white;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 1s ease-in-out, transform 0.5s ease-in-out;
+    height: 224px; /* ✅ Ensure exact height */
+  }
+  
+  .spotify-container.loaded {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .floating-bg {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(20px);
+  }
+  
+  .floating-bg-1 {
+    top: -20px;
+    left: -20px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(72, 187, 120, 0.3);
+  }
+  
+  .floating-bg-2 {
+    bottom: -10px;
+    right: -10px;
+    width: 70px;
+    height: 70px;
+    background-color: rgba(139, 92, 246, 0.2);
+    filter: blur(30px);
+  }
+  
+  .playlist-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #c3dafe;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  .playlist-title:hover {
+    color: #93c5fd;
+    text-shadow: 4px 4px 0px #ff0066, 6px 6px 0px #6600ff; /* 3D depth effect on hover */
+  }
+  
+  
+
+  .spotify-iframe {
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out; /* Add a smooth scaling effect on hover */
+  }
+  
+  .spotify-iframe:hover {
+    transform: scale(1.05);
+  }
+  
+
+  /* Looping typing effect for the title   */
+
+  @keyframes typing {
+    0% { width: 0; }
+    50% { width: 100%; }
+    100% { width: 0; }
+  }
+  
+  .typing-effect {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 0;
+    display: inline-block;
+    border-right: 2px solid #93c5fd;
+    animation: typing 5s steps(20, end) infinite;
+  }
+
+
+
+
+  /* Glitch effect: un poco feo 
+
+  @keyframes glitch {
+    0% { text-shadow: 2px 2px #ff0000, -2px -2px #00ff00; }
+    25% { text-shadow: -2px -2px #ff0000, 2px 2px #00ff00; }
+    50% { text-shadow: 2px -2px #ff0000, -2px 2px #00ff00; }
+    75% { text-shadow: -2px 2px #ff0000, 2px -2px #00ff00; }
+    100% { text-shadow: 2px 2px #ff0000, -2px -2px #00ff00; }
+  }
+  
+  .glitch-text {
+    animation: glitch 0.2s infinite alternate;
+  }
+*/
+
+
+  /* Wavy text effect: not very wavy-like 
+
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(2deg); }
+    50% { transform: rotate(-2deg); }
+    75% { transform: rotate(2deg); }
+    100% { transform: rotate(0deg); }
+  }
+  
+  .wavy-text {
+    display: inline-block;
+    animation: wave 0.5s infinite;
+  }
+
+  */
+  
+
+  /* Flicker effect
+
+  @keyframes flicker {
+    0% { text-shadow: 0px 0px 5px rgba(255,255,255,0.5); }
+    50% { text-shadow: 0px 0px 15px rgba(255,255,255,0.8); }
+    100% { text-shadow: 0px 0px 5px rgba(255,255,255,0.5); }
+  }
+  
+  .flicker-text {
+    animation: flicker 1s infinite alternate;
+  }
+*/
+

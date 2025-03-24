@@ -1,0 +1,29 @@
+.quotes-section {
+  width: 440px; /* Fixed width */
+  height: 224px; /* Fixed height */
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 600px;
+  margin: 2rem auto;
+  justify-content: center;  /* Centers horizontally */
+  align-items: center;  /* Centers vertically */
+}
+
+.quote {
+  font-size: 1rem;
+  font-style: italic;
+  color: #333;
+  padding: 10px;
+  max-height: 200px;
+  
+}
+
+.quote footer {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  color: #555;
+}
+
+

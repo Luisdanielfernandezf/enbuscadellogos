@@ -1,0 +1,22 @@
+.photo-container {
+  position: relative;
+  width: 100%;
+  width: 250px;
+  height: 224px; 
+  margin: 0 auto;
+  overflow: hidden; /* Ensure the content stays within the container */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo-image {
+  width: 250px;
+  height: 224px; 
+  display: block;
+  border-radius: 8px;
+  object-fit: cover;
+}
+

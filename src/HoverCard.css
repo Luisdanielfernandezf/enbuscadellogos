@@ -1,0 +1,86 @@
+/* Hover Card - Now Bigger */
+.hover-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem; /* Space between cards */
+}
+
+.hover-card {
+  position: relative;
+  width: 150px;
+  height: 224px; /* Fixed height for the card */
+  padding: 1rem;
+  /*border: 1px solid #ccc;*/
+  border-radius: 8px;
+  background-color: #fff;
+  transition: transform 0.3s; /* Smooth transition for scaling effect */
+  overflow: hidden; /* Hide overflow content */
+  background-size: cover; /* Ensure the background image covers the card */
+  background-position: center; /* Center the background image */
+}
+
+.hover-card:hover {
+  transform: scale(1.05); /* Scale up the card on hover */
+}
+
+/* Dynamic Background Image */
+.hover-card-bg {
+  position: absolute;
+  inset: 0; /* Position the background image to cover the entire card */
+  background-size: cover;
+  background-position: center;
+  transition: filter 0.3s; /* Smooth transition for the blur effect */
+}
+
+.hover-card:hover .hover-card-bg {
+  filter: blur(5px); /* Apply blur effect on hover */
+}
+
+/* Overlay for Readability */
+.hover-card-overlay {
+  position: absolute;
+  inset: 0; /* Position the overlay to cover the entire card */
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+}
+
+/* Title */
+.hover-card-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #fff; /* White text color for readability */
+  position: relative; /* Ensure the title is above the overlay */
+  z-index: 1; /* Ensure the title is above the overlay */
+}
+
+/* Hidden List */
+.hover-card-list {
+  display: none; /* Hide the list by default */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  max-height: 150px;
+  overflow-y: auto; /* Scrollable content */
+  position: relative; /* Ensure the list is above the overlay */
+  z-index: 1; /* Ensure the list is above the overlay */
+}
+
+/* Show List on Hover */
+.hover-card-list.show {
+  display: block; /* Show the list when the card is hovered */
+}
+
+/* List Styling */
+.hover-card-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+
+
+.hover-card-list li {
+  padding: 6px 0;
+  font-size: 1.1rem;
+  color: #fff; /* White text color for readability */
+}

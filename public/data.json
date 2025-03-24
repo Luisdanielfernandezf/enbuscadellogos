@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Pelis en mi radar",
+    "items": [
+      { "id": "1", "name": "La lengua de las mariposas", "checked": false },
+      { "id": "2", "name": "The animatrix", "checked": false },
+      { "id": "3", "name": "Memorias de una geisha", "checked": false },
+      { "id": "4", "name": "La guerra de los rohirrim", "checked": false }
+    ],
+    "image": "/images/image1.jpg"
+  },
+  {
+    "title": "Pelis-que-hay-que-ver",
+    "items": [
+      { "id": "movie1", "name": "La vida de Adele", "nota": "ya veremo", "checked": false },
+      { "id": "movie2", "name": "Memento", "nota": "ya veremo", "checked": false },
+      { "id": "movie3", "name": "Room (La habitación)", "nota": "ya veremo", "checked": false },
+      { "id": "movie4", "name": "The Game", "nota": 9, "checked": true },
+      { "id": "movie5", "name": "Seven", "nota": 7.4, "checked": true },
+      { "id": "movie6", "name": "Siete años", "nota": "ya veremo", "checked": false },
+      { "id": "movie7", "name": "Exam", "nota": "ya veremo", "checked": false },
+      { "id": "movie8", "name": "One day", "nota": 7, "checked": true },
+      { "id": "movie9", "name": "Crash (2004)", "nota": 8, "checked": true },
+      { "id": "movie10", "name": "Langosta", "nota": 7.3, "checked": true },
+      { "id": "movie11", "name": "Los odiosos ocho", "nota": 7, "checked": true },
+      { "id": "movie12", "name": "El abrazo de la serpiente", "nota": 7, "checked": true },
+      { "id": "movie13", "name": "Camino", "nota": "ya veremo", "checked": false },
+      { "id": "movie14", "name": "Las vidas de Grace", "nota": 8, "checked": true },
+      { "id": "movie15", "name": "Pájaro blanco de la tormenta de nieve", "nota": 7, "checked": true },
+      { "id": "movie16", "name": "Big fish", "nota": 7, "checked": true },
+      { "id": "movie17", "name": "Your name", "nota": 9.8, "checked": true },
+      { "id": "movie18", "name": "Shakespeare in love", "nota": "ya veremo", "checked": false },
+      { "id": "movie19", "name": "Blade Runner", "nota": 8.7, "checked": true },
+      { "id": "movie20", "name": "Spotlight", "nota": 7.6, "checked": true },
+      { "id": "movie21", "name": "Green book", "nota": 8.1, "checked": true },
+      { "id": "movie22", "name": "Parásitos", "nota": 7.7, "checked": true },
+      { "id": "movie23", "name": "Una vida oculta", "nota": "ya veremo", "checked": false },
+      { "id": "movie24", "name": "Once upon a time in Hollywood", "nota": 8, "checked": true },
+      { "id": "movie25", "name": "Cuando Harry encontró a Sally", "nota": 8.2, "checked": true },
+      { "id": "movie26", "name": "La Juventud", "nota": 6.8, "checked": true },
+      { "id": "movie27", "name": "Honeyland", "nota": "ya veremo", "checked": false },
+      { "id": "movie28", "name": "Grease", "nota": "ya veremo", "checked": false },
+      { "id": "movie29", "name": "The road", "nota": "ya veremo", "checked": false }
+    ],
+    "image": "/images/image2.jpg"
+  },
+  {
+    "title": "Leyendo en este momento",
+    "items": [
+      { "id": "1", "name": "Mareas de madianoche", "autor": "Steven Erikson", "percentage": 22 },
+      { "id": "2", "name": "Red country", "autor": "Joe Abercrombie", "percentage": 33 }
+    ],
+    "image": "/images/image3.jpg"
+  },
+  {
+    "title": "Lista de lectura",
+    "items": [
+      { "id": "1", "name": "Mareas de madianoche", "checked": false, "autor": "Steven Erikson" },
+      { "id": "2", "name": "Red country", "checked": false, "autor": "Joe Abercrombie" },
+      { "id": "3", "name": "Promise of blood", "checked": false, "autor": "Brian McClellan" },
+      { "id": "4", "name": "Lezo, el cómic", "checked": false, "autor": "Ángel Miranda" },
+      { "id": "5", "name": "El primer muro", "checked": false, "autor": "Gav Thorpe" },
+      { "id": "6", "name": "Magallanes, el hombre y su gesta", "checked": false, "autor": "Stefan Zweig" },
+      { "id": "7", "name": "El despertar del leviatán", "checked": false, "autor": "James S. A. Corey" },
+      { "id": "8", "name": "Red country", "checked": false, "autor": "Joe Abercrombie" }
+    ],
+    "image": "/images/image4.jpg"
+  },
+  {
+    "title": "La puta mejor serie",
+    "items": [
+      { "id": "1", "name": "Vikingos \u2744" },
+      { "id": "2", "name": "Mindhunter" },
+      { "id": "3", "name": "Halt and catch fire \uD83D\uDD25" },
+      { "id": "4", "name": "The bear \uD83D\uDC3B" }
+    ],
+    "image": "/images/image5.jpg"
+  }
+]
