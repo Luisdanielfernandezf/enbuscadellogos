@@ -1,0 +1,229 @@
+{
+  "quotes": [
+      {
+          "id": "1",
+          "text": "A veces pienso que todavía nos quedan muchas cosas por compartir. La noche y la memoria; quizá también la indiferencia. O quién sabe. A lo mejor tampoco eso.",
+          "author": "Rosa Beltrán, Amores que matan"
+      },
+      {
+          "id": "2",
+          "text": "Sólo llega a dominar la libertad de los hombres aquel que tranquiliza sus conciencias.",
+          "author": "Fiódor Dostoievski"
+      },
+      {
+          "id": "3",
+          "text": "Hay amistades hechas de risas o dolores compartidos; otras de horas de escuela; otras de juegos de juventud, salidas, cines o diversiones; otras de un momento clave vivido en coincidencia…; y luego están aquellas que nacen sin saber por qué… … incluso de silencios comprendidos, o de simpatía mutua sin explicación.",
+          "author": "Antoine de Saint-Exupéry, El Principito"
+      },
+      {
+          "id": "4",
+          "text": "The Discipline Of Desire Is The Background Of Character.",
+          "author": "John Locke"
+      },
+      {
+          "id": "5",
+          "text": "Let everything happen to you\nBeauty and terror\nJust keep going\nNo feeling is final.",
+          "author": "Rainer Maria Rilke"
+      },
+      {
+          "id": "6",
+          "text": "Hoy me gusta la vida mucho menos, pero siempre me gusta vivir.",
+          "author": "César Vallejo"
+      },
+      {
+          "id": "7",
+          "text": "Los excesos de la virtud son peores que los vicios porque no están controlados por la conciencia.",
+          "author": "Adam Smith"
+      },
+      {
+          "id": "8",
+          "text": "El que aspira a parecer, renuncia a ser.",
+          "author": "José Ingenieros"
+      },
+      {
+          "id": "9",
+          "text": "Al primer amor se le quiere más, a los siguientes se les quiere mejor.",
+          "author": "Antoine de Saint-Exupéry"
+      },
+      {
+          "id": "10",
+          "text": "¿No ves que no duerme bien quien ama?",
+          "author": "Lope de Vega"
+      },
+      {
+          "id": "11",
+          "text": "Lo que niegas te somete. Lo que aceptas te transforma.",
+          "author": "Carl Jung"
+      },
+      {
+          "id": "12",
+          "text": "No ser amados es una simple desventura; la verdadera desgracia es no amar.",
+          "author": "Albert Camus"
+      },
+      {
+          "id": "13",
+          "text": "Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free.",
+          "author": "Aleksandr Solzhenitsyn"
+      },
+      {
+          "id": "14",
+          "text": "El 80% de nuestra actividad mental es irrelevante, prescindible, e incluso contraproducente. Es mucho más saludable fiarse de la intuición, del primer impulso. Casi ninguna reflexión mueve hacia la acción, la mayoría conduce a la parálisis.",
+          "author": "Pablo D'Ors, Biografía del silencio"
+      },
+      {
+          "id": "15",
+          "text": "Lo malo del deseo es que vuelve sin avisar.",
+          "author": "Ramón Gómez de la Serna"
+      },
+      {
+          "id": "16",
+          "text": "There is love in holding and there is love in letting go.",
+          "author": "Elizabeth Berg"
+      },
+      {
+          "id": "17",
+          "text": "El genio es la infancia recuperada a voluntad.",
+          "author": "Charles Baudelaire"
+      },
+      {
+          "id": "18",
+          "text": "Mientras que el corazón tiene deseo, la imaginación conserva ilusiones.",
+          "author": "René De Chateaubriand"
+      },
+      {
+          "id": "19",
+          "text": "Cuando hay que resolver un problema de los demás, jamás debes pensar en los tuyos.",
+          "author": "Anónimo"
+      },
+      {
+          "id": "20",
+          "text": "Espantoso juego del amor, en el cual es preciso que uno de ambos jugadores pierda el gobierno de sí mismo.",
+          "author": "Charles Baudelaire"
+      },
+      {
+          "id": "21",
+          "text": "¡No corras, vete despacio, que a donde tienes que llegar es a ti mismo!",
+          "author": "Juan Ramón Jiménez"
+      },
+      {
+          "id": "22",
+          "text": "Si juzgas a la gente no tienes tiempo para amarla.",
+          "author": "Teresa de Calcuta"
+      },
+      {
+          "id": "23",
+          "text": "Cuando piensas o razonas o sabes, eres un montón de gente; cuando sientes, no eres nadie que no seas tú.",
+          "author": "E.E. Cummings"
+      },
+      {
+          "id": "24",
+          "text": "Conocemos en la medida en la que amamos.",
+          "author": "San Agustín de Hipona"
+      },
+      {
+          "id": "25",
+          "text": "Es absolutamente erróneo asumir que los demás están en condiciones de comprender nuestros sentimientos más profundos.",
+          "author": "Yukio Mishima"
+      },
+      {
+          "id": "26",
+          "text": "No puedo decir que pensara en ella a todas horas. No sería cierto. Pero sí podría decir que, cuando no pensaba en nada concreto, pensaba en Irene.",
+          "author": "Ignacio Martínez de Pisón, Derecho natural"
+      },
+      {
+          "id": "27",
+          "text": "Somos lo que dedicamos tiempo a ser.",
+          "author": "Luis Daniel Fernández Freire"
+      },
+      {
+          "id": "28",
+          "text": "En el fondo, todas las pasiones son trágicas, todos los deseos están malditos, porque siempre conseguimos menos de lo que soñábamos.",
+          "author": "Irène Némirovsky, Jezabel"
+      },
+      {
+          "id": "29",
+          "text": "Freedom is nothing else but the chance to be better.",
+          "author": "Albert Camus"
+      },
+      {
+          "id": "30",
+          "text": "La vida me disgusta como una medicina inútil.",
+          "author": "Fernando Pessoa"
+      },
+      {
+          "id": "31",
+          "text": "A veces, un solo ser nos falta y todo nos parece despoblado.",
+          "author": "Alphonse de Lamartine"
+      },
+      {
+          "id": "32",
+          "text": "No todos los que andan sin rumbo fijo se pierden.",
+          "author": "J.R.R. Tolkien"
+      },
+      {
+          "id": "33",
+          "text": "Mi conciencia tiene en mí más peso que la opinión de todo el mundo.",
+          "author": "Marco Tulio Cicerón"
+      },
+      {
+          "id": "34",
+          "text": "El arte es un tipo de conocimiento superior a la experiencia.",
+          "author": "Aristóteles"
+      },
+      {
+          "id": "35",
+          "text": "Lo que eres me distrae de lo que dices.",
+          "author": "Pedro Salinas"
+      },
+      {
+          "id": "36",
+          "text": "Un corazón es una riqueza que no se vende ni se compra, pero que se regala.",
+          "author": "Gustave Flaubert"
+      },
+      {
+          "id": "37",
+          "text": "No te fatigues en pensar: ama.",
+          "author": "Emilia Pardo Bazán"
+      },
+      {
+          "id": "38",
+          "text": "La alegría se encuentra en el fondo de todas las cosas, pero a cada uno le corresponde extraerla.",
+          "author": "Marco Aurelio"
+      },
+      {
+          "id": "39",
+          "text": "The greatest challenge to any thinker is stating the problem in a way that will allow a solution.",
+          "author": "Bertrand Russell"
+      },
+      {
+          "id": "40",
+          "text": "Cada vez que se ama es la única vez que se ha amado nunca.",
+          "author": "Oscar Wilde"
+      },
+      {
+          "id": "41",
+          "text": "Si no es correcto, no lo hagas; si no es verdad, no lo digas.",
+          "author": "Marco Aurelio"
+      },
+      {
+          "id": "42",
+          "text": "How wonderful it is that nobody need to wait a single moment before starting to improve the world.",
+          "author": "Anne Frank"
+      },
+      {
+          "id": "43",
+          "text": "Quien te enfada te domina.",
+          "author": "Buda"
+      },
+      {
+          "id": "44",
+          "text": "El amor y la tos no se pueden ocultar.",
+          "author": "Proverbio italiano"
+      },
+      {
+          "id": "45",
+          "text": "Nunca se cambia de vida, en todo caso todas valen igual y la mía no me disgusta en absoluto.",
+          "author": "Albert Camus, El extranjero"
+      }
+  ]
+}
